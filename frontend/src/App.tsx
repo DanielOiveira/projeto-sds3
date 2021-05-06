@@ -18,7 +18,7 @@ function App() {
             </div>
 
             <div className="col-sm-6">
-              <h5 className="text-primary">Todas as vendas</h5>
+              <h5 className="text-secondary text-center">Todas as vendas</h5>
               <DonutChart />
             </div>
           </div>
