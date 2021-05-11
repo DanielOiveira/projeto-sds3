@@ -37,8 +37,8 @@ public class SellerDTO implements Serializable{
 		return name;
 	}
 
-	public void setNome(String nome) {
-		this.name = nome;
+	public void setNome(String name) {
+		this.name = name;
 	}
 	
 	
